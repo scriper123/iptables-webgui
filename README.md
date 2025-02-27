@@ -22,12 +22,14 @@ Copy
 Edit
 git clone https://github.com/scriper123/iptables-webgui.git
 cd iptables-webgui
+
 2️⃣ Jalankan Setup
 bash
 Copy
 Edit
 chmod +x install.sh
 ./install.sh
+
 3️⃣ Akses Web GUI
 Buka browser dan masuk ke:
 
@@ -42,5 +44,6 @@ Fork repository ini
 Buat branch baru (feature-nama-fitur)
 Commit perubahan (git commit -m "Tambah fitur XYZ")
 Push ke branch dan buat Pull Request
+
 ⚠️ Disclaimer
 Gunakan dengan bijak. Kami tidak bertanggung jawab atas kerusakan sistem akibat konfigurasi yang salah.
