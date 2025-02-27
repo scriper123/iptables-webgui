@@ -3,13 +3,19 @@ IPTables Web GUI adalah antarmuka berbasis web untuk mengelola aturan firewall I
 
 🔥 Fitur Utama
 ✅ Live Traffic Monitoring – Pantau trafik secara real-time.
+
 ✅ User Authentication & RBAC – Akses dengan login & peran pengguna.
+
 ✅ Log & History – Catat semua perubahan aturan IPTables.
+
 ✅ Auto Backup & Restore – Simpan & pulihkan aturan firewall dengan sekali klik.
+
 ✅ Export & Import Rules – Mudah ekspor & impor konfigurasi IPTables.
+
 ✅ Responsive UI – Tampilan modern dan kompatibel dengan berbagai perangkat.
 
 📦 Instalasi
+
 1️⃣ Clone Repository
 bash
 Copy
