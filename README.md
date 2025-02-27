@@ -1,7 +1,10 @@
 IPTables Web GUI
-IPTables Web GUI adalah antarmuka berbasis web untuk mengelola aturan firewall IPTables dengan mudah dan efisien, mirip dengan WebFig di MikroTik.
+IPTables Web GUI adalah antarmuka berbasis web 
+untuk mengelola aturan firewall IPTables dengan mudah dan efisien, 
+mirip dengan WebFig di MikroTik.
 
 🔥 Fitur Utama
+
 ✅ Live Traffic Monitoring – Pantau trafik secara real-time.
 
 ✅ User Authentication & RBAC – Akses dengan login & peran pengguna.
